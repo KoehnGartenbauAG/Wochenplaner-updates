@@ -8,13 +8,13 @@
         <description>Automatische Updates fuer den Koehn Gartenbau Wochenplaner.</description>
         <language>de</language>
 
-                        <item>
+                <item>
             <title>Version 1.22.0</title>
             <description><![CDATA[
                 <h2>Wochenplaner 1.22.0</h2>
                 <p>Automatisches Update — Details auf GitHub.</p>
             ]]></description>
-            <pubDate>Fri, 22 May 2026 14:28:06 +0200</pubDate>
+            <pubDate>Fri, 22 May 2026 15:58:36 +0200</pubDate>
             <sparkle:version>31</sparkle:version>
             <sparkle:shortVersionString>1.22.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -22,7 +22,7 @@
                 url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.22.0/Wochenplaner-1.22.0.zip"
                 length="10794861"
                 type="application/octet-stream"
-                sparkle:edSignature="kyhAIzGVnabkUbqUmMmdZT/7siwYBFyR9GEl5rBHA42PARUsKoEW45Vff9zOm59KON2UQfWR8xC3M1oUdbMmAw==" />
+                sparkle:edSignature="NVGFAat5sUrH/Q8j85pcCgqQHsCDHOYadxhx5p01n9MqMXenShhVWrM6hhTICIcsshCfQLfDs+ixqSxXN1OqAg==" />
         </item>
 
         <item>
