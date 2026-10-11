@@ -9,6 +9,23 @@
         <language>de</language>
 
                                                                                                                                                                                                                                                                                                 <item>
+            <title>Version 1.41.10</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.41.10</h2>
+                <p>Sicherheit: Webserver-Tourzugang geschlossen. Maschinenring: Maschinenführer separat.</p>
+            ]]></description>
+            <pubDate>Sun, 11 Oct 2026 15:30:12 +0200</pubDate>
+            <sparkle:version>119</sparkle:version>
+            <sparkle:shortVersionString>1.41.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.41.10/Wochenplaner-1.41.10.zip"
+                length="60545930"
+                type="application/octet-stream"
+                sparkle:edSignature="+Z9xnVhkA180QcDcUEkaKsdkgV+y7EG9mhl6pPjCkQGjSad00wrV0CZ7uyf49rhf/tBlDGZQERIbSKR79FVVCA==" />
+        </item>
+
+        <item>
             <title>Version 1.41.9</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.41.9</h2>
