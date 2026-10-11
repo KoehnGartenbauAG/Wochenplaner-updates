@@ -9,6 +9,23 @@
         <language>de</language>
 
                                                                                                                                                                                                                                                                                                 <item>
+            <title>Version 1.41.11</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.41.11</h2>
+                <p>Abgleich: neue Tabellen gehen automatisch vollständig in die Cloud.</p>
+            ]]></description>
+            <pubDate>Sun, 11 Oct 2026 18:02:06 +0200</pubDate>
+            <sparkle:version>120</sparkle:version>
+            <sparkle:shortVersionString>1.41.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.41.11/Wochenplaner-1.41.11.zip"
+                length="60556708"
+                type="application/octet-stream"
+                sparkle:edSignature="I0hpY99HXMF7rBLkkEDYiRkQ4ugmWIulrnMjzOqBw7w0ONvEzzRw1WUzMkI7HgCrjy7DrhOEOrWIR4GEmKSTDw==" />
+        </item>
+
+        <item>
             <title>Version 1.41.10</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.41.10</h2>
