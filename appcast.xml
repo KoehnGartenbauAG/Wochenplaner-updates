@@ -9,6 +9,23 @@
         <language>de</language>
 
                                                                                                                                                                                                                                                                                                 <item>
+            <title>Version 1.41.12</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.41.12</h2>
+                <p>Winterdienst: Teams auflösen und an ein anderes Team übergeben.</p>
+            ]]></description>
+            <pubDate>Sun, 11 Oct 2026 22:49:42 +0200</pubDate>
+            <sparkle:version>121</sparkle:version>
+            <sparkle:shortVersionString>1.41.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.41.12/Wochenplaner-1.41.12.zip"
+                length="60641308"
+                type="application/octet-stream"
+                sparkle:edSignature="gHmCbOi9YITyUfzl9OnCqnaIgS1myzl8ESMzWEPrnQmd3y2V0sO8tmJ+nx4AdcwbxX/E1AgmFuq+Xj6/pCZMAA==" />
+        </item>
+
+        <item>
             <title>Version 1.41.11</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.41.11</h2>
