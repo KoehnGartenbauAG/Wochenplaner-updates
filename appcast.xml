@@ -9,6 +9,23 @@
         <language>de</language>
 
                                                                                                                                                                                                                                                                                                 <item>
+            <title>Version 1.41.9</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.41.9</h2>
+                <p>Winterdienst: Mitarbeiter-Mac mit Live, Feedback und Kontrollfahrt; Absenzanträge; Gutschrift-Freigabe; Abgleich sicherer.</p>
+            ]]></description>
+            <pubDate>Sun, 11 Oct 2026 11:02:53 +0200</pubDate>
+            <sparkle:version>118</sparkle:version>
+            <sparkle:shortVersionString>1.41.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.41.9/Wochenplaner-1.41.9.zip"
+                length="60606121"
+                type="application/octet-stream"
+                sparkle:edSignature="UzzQoz0uCSg3cOJslXDzjRljStdjvBszSTEBQMijX71j1wFtER+Z5yCeiqg0IDL5m5yXBVRIX8P2+4paZBXMBg==" />
+        </item>
+
+        <item>
             <title>Version 1.41.8</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.41.8</h2>
