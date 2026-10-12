@@ -9,6 +9,23 @@
         <language>de</language>
 
                                                                                                                                                                                                                                                                                                 <item>
+            <title>Version 1.41.13</title>
+            <description><![CDATA[
+                <h2>Wochenplaner 1.41.13</h2>
+                <p>Automatisches Update — Details auf GitHub.</p>
+            ]]></description>
+            <pubDate>Mon, 12 Oct 2026 16:15:04 +0200</pubDate>
+            <sparkle:version>122</sparkle:version>
+            <sparkle:shortVersionString>1.41.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.41.13/Wochenplaner-1.41.13.zip"
+                length="61589976"
+                type="application/octet-stream"
+                sparkle:edSignature="NYP3jDbRk7q4BIIQTS9Q8xjrKJLGSKMiX2LGW/arcSac8ZlN8JmIkajKZjg0jbs3mzxHlEN2xzr7XySe3mQHAQ==" />
+        </item>
+
+        <item>
             <title>Version 1.41.12</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.41.12</h2>
