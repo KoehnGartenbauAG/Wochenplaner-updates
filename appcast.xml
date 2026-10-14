@@ -8,7 +8,24 @@
         <description>Automatische Updates fuer den Koehn Gartenbau Wochenplaner.</description>
         <language>de</language>
 
-                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                        <item>
+            <title>Version 1.41.16</title>
+            <description><![CDATA[
+                <h2>Wochenplaner 1.41.16</h2>
+                <p>Automatisches Update — Details auf GitHub.</p>
+            ]]></description>
+            <pubDate>Wed, 14 Oct 2026 09:00:11 +0200</pubDate>
+            <sparkle:version>125</sparkle:version>
+            <sparkle:shortVersionString>1.41.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.41.16/Wochenplaner-1.41.16.zip"
+                length="62498809"
+                type="application/octet-stream"
+                sparkle:edSignature="ZpbdxNVTjR87RHhteA4GlaC7NJIpAhuHZ4OsUOq38kB3XxUIQhSDiOS/3v8FHSPqhVQY6y1V/3xe1baAv801DQ==" />
+        </item>
+
+        <item>
             <title>Version 1.41.15</title>
             <description><![CDATA[
                 <h2>Wochenplaner 1.41.15</h2>
