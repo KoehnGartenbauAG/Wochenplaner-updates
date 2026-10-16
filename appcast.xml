@@ -8,7 +8,24 @@
         <description>Automatische Updates fuer den Koehn Gartenbau Wochenplaner.</description>
         <language>de</language>
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+            <title>Version 1.41.31</title>
+            <description><![CDATA[
+                <h2>Wochenplaner 1.41.31</h2>
+                <p>Automatisches Update — Details auf GitHub.</p>
+            ]]></description>
+            <pubDate>Fri, 16 Oct 2026 10:45:29 +0200</pubDate>
+            <sparkle:version>140</sparkle:version>
+            <sparkle:shortVersionString>1.41.31</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.41.31/Wochenplaner-1.41.31.zip"
+                length="64040160"
+                type="application/octet-stream"
+                sparkle:edSignature="Cchc4R8YKOvFbQfnZwAeBRaqOML1jdETEiyOH1lYgjJ130VzMFJAoAlfQEFhENMnVukPwR4OUsraN1aFgTLGBA==" />
+        </item>
+
+        <item>
             <title>Version 1.41.30</title>
             <description><![CDATA[
                 <h2>Wochenplaner 1.41.30</h2>
