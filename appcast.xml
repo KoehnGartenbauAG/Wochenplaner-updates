@@ -8,7 +8,24 @@
         <description>Automatische Updates fuer den Koehn Gartenbau Wochenplaner.</description>
         <language>de</language>
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+            <title>Version 1.41.37</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.41.37</h2>
+                <p>Automatisches Update — Details auf GitHub.</p>
+            ]]></description>
+            <pubDate>Mon, 26 Oct 2026 06:36:58 +0100</pubDate>
+            <sparkle:version>146</sparkle:version>
+            <sparkle:shortVersionString>1.41.37</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.41.37/KGB-Cockpit-1.41.37.zip"
+                length="64499725"
+                type="application/octet-stream"
+                sparkle:edSignature="IcO+OV8TYDNOihfgBzStYxYUs3Fo9ZP6kPoLikuwRo+ipXYi3PahMRsnDCncutF+EVJGRxEQ8DuXnUQ4Xf8rCQ==" />
+        </item>
+
+        <item>
             <title>Version 1.41.36</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.41.36</h2>
