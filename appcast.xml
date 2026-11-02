@@ -8,7 +8,24 @@
         <description>Automatische Updates fuer den Koehn Gartenbau Wochenplaner.</description>
         <language>de</language>
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+            <title>Version 1.41.49</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.41.49</h2>
+                <p>Automatisches Update — Details auf GitHub.</p>
+            ]]></description>
+            <pubDate>Mon, 02 Nov 2026 07:55:09 +0100</pubDate>
+            <sparkle:version>158</sparkle:version>
+            <sparkle:shortVersionString>1.41.49</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.41.49/KGB-Cockpit-1.41.49.zip"
+                length="64910735"
+                type="application/octet-stream"
+                sparkle:edSignature="nUvL7+M9iyDyouvEjxQN8v+aTLhW+TovaKEilhx4g3eYkBL1p2QaTtS01UlpEVkC/eedtn998mVwSTRCj9JdCQ==" />
+        </item>
+
+        <item>
             <title>Version 1.41.48</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.41.48</h2>
