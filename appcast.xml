@@ -8,6 +8,25 @@
         <description>Automatische Updates fuer den Koehn Gartenbau Wochenplaner.</description>
         <language>de</language>
 
+        <item>
+            <title>Version 1.41.60</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.41.60</h2>
+                <ul>
+                    <li>Objektaufnahmen sind jetzt auch auf diesem Mac sichtbar (Winterdienst, Planung, Objekte).</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 04 Nov 2026 12:32:35 +0100</pubDate>
+            <sparkle:version>169</sparkle:version>
+            <sparkle:shortVersionString>1.41.60</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.41.60/KGB-Cockpit-1.41.60.zip"
+                length="65510627"
+                type="application/octet-stream"
+                sparkle:edSignature="Ps5tl9HDY+9yB3AEEAOoq5XrV1sd5txFCO3piZE9FTuAS+28AfRqWDm1NzftOLbVbxm71Wxcdzo5ztK+JIZzCA==" />
+        </item>
+
                                                                                                 <item>
             <title>Version 1.41.59</title>
             <description><![CDATA[
