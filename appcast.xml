@@ -8,7 +8,24 @@
         <description>Automatische Updates fuer den Koehn Gartenbau Wochenplaner.</description>
         <language>de</language>
 
-                                                                                <item>
+                                                                                        <item>
+            <title>Version 1.41.58</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.41.58</h2>
+                <p>Automatisches Update — Details auf GitHub.</p>
+            ]]></description>
+            <pubDate>Wed, 04 Nov 2026 11:01:35 +0100</pubDate>
+            <sparkle:version>167</sparkle:version>
+            <sparkle:shortVersionString>1.41.58</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.41.58/KGB-Cockpit-1.41.58.zip"
+                length="65479898"
+                type="application/octet-stream"
+                sparkle:edSignature="8OR+WcLgvOxH0iUaLfGoyh3GSdF+mxozzCxlZqCP7W6s+tfe5bPLjO4jGTWVwPjcbSNhT4x7lCdL1A1eWoldCQ==" />
+        </item>
+
+        <item>
             <title>Version 1.41.57</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.41.57</h2>
