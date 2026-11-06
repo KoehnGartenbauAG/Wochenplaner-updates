@@ -9,6 +9,36 @@
         <language>de</language>
 
         <item>
+            <title>Version 1.41.69</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.41.69</h2>
+                <p>Fasst alles seit 1.41.61 zusammen.</p>
+                <ul>
+                    <li>Partnerverträge: Entwurf direkt im Cockpit ansehen, Versand zur Unterschrift über DocuSign, unterschriebener Vertrag ersetzt den Entwurf automatisch.</li>
+                    <li>SStA: neuer Reiter Bestand mit Ablaufdatum, Wiederholungskurs, Ausweis an den Maschinenring und Geld vom Maschinenring.</li>
+                    <li>Partnervertrag: Auftragsbeschrieb richtet sich nach dem Aufgebot der Firma (auf Abruf).</li>
+                    <li>Routen: Fenster «Kopieren von» für alle Routen. Objekte: Suche nach Firma beim Zuteilen und Filter «Nur Schneeräumen».</li>
+                    <li>SStA Bestand: neue Spalte Ausweis, die Datei aus dem Personal öffnen oder direkt hinterlegen.</li>
+                    <li>Benutzerverwaltung: Beim Team-App-Link steht jetzt auch ein QR-Code zum Scannen.</li>
+                    <li>Winterdienst, Anfragen: Neuer Knopf «Einladung senden» schickt Interessenten den Link zur Anfrageseite.</li>
+                    <li>Winterdienst-Anfragen: eingezeichneter Plan jetzt auf dem Luftbild (Satellit)</li>
+                    <li>Neue Abwesenheitsart Arzt</li>
+                    <li>Zahlungseingang Winterdienst übersichtlicher</li>
+                    <li>WhatsApp-Vorlage und Wochen-Archiv in den Einstellungen Wochenplaner</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 06 Nov 2026 14:06:36 +0100</pubDate>
+            <sparkle:version>178</sparkle:version>
+            <sparkle:shortVersionString>1.41.69</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.41.69/KGB-Cockpit-1.41.69.zip"
+                length="66260914"
+                type="application/octet-stream"
+                sparkle:edSignature="zetoM4408GWsH4qDHnPxPTyMwQpuUXqx0hLH7rMjRo6mxPrCF1zBsrdXoghwIOe6pDAgdn/upU2O9CQVrKctBQ==" />
+        </item>
+
+        <item>
             <title>Version 1.41.60</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.41.60</h2>
