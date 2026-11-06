@@ -9,6 +9,25 @@
         <language>de</language>
 
         <item>
+            <title>Version 1.41.70</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.41.70</h2>
+                <ul>
+                    <li>Zahlungseingang: Klick auf die Zeile klappt auf und zu, «✓ alle» setzt alle offenen; Suche, fällige BP und Datum korrigiert</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 06 Nov 2026 15:05:35 +0100</pubDate>
+            <sparkle:version>179</sparkle:version>
+            <sparkle:shortVersionString>1.41.70</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.41.70/KGB-Cockpit-1.41.70.zip"
+                length="66315979"
+                type="application/octet-stream"
+                sparkle:edSignature="/latsfSBdmejhHYrflXyEsQZkaPmRg/f6J9O+hIc37jP631gsoe9FRLDREuCXLkUfPXLeLN64WoCGe/c2CKhDQ==" />
+        </item>
+
+        <item>
             <title>Version 1.41.69</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.41.69</h2>
