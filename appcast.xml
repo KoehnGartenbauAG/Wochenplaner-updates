@@ -9,6 +9,27 @@
         <language>de</language>
 
         <item>
+            <title>Version 1.41.73</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.41.73</h2>
+                <p>Fasst alles seit 1.41.71 zusammen.</p>
+                <ul>
+                    <li>Winterdienst-Objekte: Einsatzplan wird in der Objektaufnahme als Vorschau angezeigt, solange keine eigene Aufnahme vorliegt.</li>
+                    <li>Zahlungseingang Winterdienst: neues Kästchen «bereit für die Rechnung» neben «bezahlt», für die Buchhaltung als blauer Punkt sichtbar. Winterdienst-Pläne einheitlich benannt: Situationsplan (Übersicht, Grundlage BP) und Einsatzplan (Objektaufnahme), das ganze PDF heisst «Pläne». Archivieren und Aufnahme-Angaben nur noch unter «Bearbeiten». Kundenplan grösser, Adresse öffnet Google Maps.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 12 Nov 2026 18:00:02 +0100</pubDate>
+            <sparkle:version>182</sparkle:version>
+            <sparkle:shortVersionString>1.41.73</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.41.73/KGB-Cockpit-1.41.73.zip"
+                length="66482824"
+                type="application/octet-stream"
+                sparkle:edSignature="5JILWmfuMXdL9G9QbrBJq99pJz8T/vU+ZKXus2oAhzTcU99xf+t1ps9M1r+ONp+6mzgFm+KJlcA8vy6wNuSsCw==" />
+        </item>
+
+        <item>
             <title>Version 1.41.70</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.41.70</h2>
