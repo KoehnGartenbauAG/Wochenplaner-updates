@@ -9,6 +9,29 @@
         <language>de</language>
 
         <item>
+            <title>Version 1.41.77</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.41.77</h2>
+                <p>Fasst alles seit 1.41.74 zusammen.</p>
+                <ul>
+                    <li>Wetter-Ampel: zweite Nacht für iPhone und iPad, ab 17:00 die kommende Nacht. Austritt: letzter Arbeitstag sichtbar, danach automatisch archiviert, wieder aktivierbar.</li>
+                    <li>Partnerfirmen: Objekt- und Fahrzeugliste bleiben auch in schmaler Ansicht lesbar. Partnervertrag: Zuschläge im Tarif-Beiblatt nur dort, wo sie abgerechnet werden.</li>
+                    <li>Zwei Pläne je Objekt: Situationsplan und Einsatzplan getrennt. Je Partnerfirma einstellbar, welche Pläne sie im Portal sieht. Knopf «Portal ansehen» bei den Partnerfirmen (nur lesen). Partnervertrag hängt nur den Situationsplan an.</li>
+                    <li>Kleider: Bestellanfragen aus dem KGB Team mit Preisen, Freigabe und Weitergabe als PDF; Einzelpreis je Artikel.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 16 Nov 2026 18:00:06 +0100</pubDate>
+            <sparkle:version>186</sparkle:version>
+            <sparkle:shortVersionString>1.41.77</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.41.77/KGB-Cockpit-1.41.77.zip"
+                length="67343845"
+                type="application/octet-stream"
+                sparkle:edSignature="YPVHAhyb6kkrIsprmfjZ1UnxzwuoMTkck4Xel+JBnrBlrOFd7hPWlcYYPxzFAdIxi406SxlfXIzIKAVlnQKPBQ==" />
+        </item>
+
+        <item>
             <title>Version 1.41.73</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.41.73</h2>
