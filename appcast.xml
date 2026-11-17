@@ -9,6 +9,25 @@
         <language>de</language>
 
         <item>
+            <title>Version 1.41.78</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.41.78</h2>
+                <ul>
+                    <li>Winterdienst: neue Aufgabe «Markierungspfähle setzen». Partnerfirmen können die Stunden dafür im Portal melden; gerechnet wird die echte Zeit zum Handarbeit-Satz, ohne Zuschläge.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 17 Nov 2026 19:10:45 +0100</pubDate>
+            <sparkle:version>187</sparkle:version>
+            <sparkle:shortVersionString>1.41.78</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.41.78/KGB-Cockpit-1.41.78.zip"
+                length="67347657"
+                type="application/octet-stream"
+                sparkle:edSignature="XSztCGdoGl/uUPwCHD9Ih2Z6wf4Y23FiWbOhDHu0456HlS+GfaHnpW81hSrg73rC+NvgXTRT4LPuun+GhJN2CQ==" />
+        </item>
+
+        <item>
             <title>Version 1.41.77</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.41.77</h2>
