@@ -9,6 +9,28 @@
         <language>de</language>
 
         <item>
+            <title>Version 1.42.2</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.42.2</h2>
+                <p>Fasst alles seit 1.42.0 zusammen.</p>
+                <ul>
+                    <li>Offerten 1.0: Hauptprojekte und Unterprojekte direkt anlegen, Kategorien verwalten, Positionen direkt in der Zeile bearbeiten, Bereichskacheln für Rapporte und Rechnung, neues Menü Offerten, PDF mit Kennung auf jeder Seite. Neu: Schlechtwetter-Formulare (Kanton St. Gallen). Neustart-Knopf in der Leiste.</li>
+                    <li>Winterdienst-Objekt: Einsatzmatrix zeigt den vollen Teamnamen, Kontrollfahrten sind dort ausgeblendet.</li>
+                    <li>Winterdienst › Feedback › Kälte-Mail: Kunden bekommen einen persönlichen Link zu ihren Objekten und können dort Hinweise melden. Neue Meldeart «Salz zu viel / zu wenig».</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 24 Nov 2026 18:00:06 +0100</pubDate>
+            <sparkle:version>190</sparkle:version>
+            <sparkle:shortVersionString>1.42.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.42.2/KGB-Cockpit-1.42.2.zip"
+                length="70501535"
+                type="application/octet-stream"
+                sparkle:edSignature="2Dusyw0R0JEofb8KoFdrY0qdSWLEGGum1Eo6yqzRoF/we0ntGP1UQSdBby3yaA+Laipz7KhqdMaRje1Z7R4ACw==" />
+        </item>
+
+        <item>
             <title>Version 1.41.78</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.41.78</h2>
