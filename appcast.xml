@@ -9,6 +9,30 @@
         <language>de</language>
 
         <item>
+            <title>Version 1.42.7</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.42.7</h2>
+                <p>Fasst alles seit 1.42.3 zusammen.</p>
+                <ul>
+                    <li>Kälte-Mail: Text passt jetzt auch für Firmen und Verwaltungen.</li>
+                    <li>Personal: neuer Knopf «App ansehen» – zeigt KGB Team eines Mitarbeiters, nur zum Lesen</li>
+                    <li>Neu: «Problem melden» – Fehler und Wünsche direkt aus dem Cockpit melden, mit Bildschirmfoto. Die Antwort steht danach unter «Meine Meldungen».</li>
+                    <li>Winterdienst › Abrechnung › Einnahmen: Bereitschaft, Einsätze, Total, An Partner und Bleibt nach Partnern (Admin). Rapporte zeigen die Einsatzart in der Leistungszeile, der Abacus-Text Einsatzart und Zeit.</li>
+                    <li>Winterdienst › Erstinstruktionen: «Scan öffnen» funktioniert jetzt an jedem Mac, die Scans kommen aus der Cloud.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 25 Nov 2026 17:29:25 +0100</pubDate>
+            <sparkle:version>195</sparkle:version>
+            <sparkle:shortVersionString>1.42.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.42.7/KGB-Cockpit-1.42.7.zip"
+                length="71199003"
+                type="application/octet-stream"
+                sparkle:edSignature="e4HME2m6EFEmITroIyY8NcWvsOWMwei2lyBho5z6WKxOUz+8haehnNtd0PGYNBPLe6CnANzWSH7EfgROyonvCg==" />
+        </item>
+
+        <item>
             <title>Version 1.42.2</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.42.2</h2>
