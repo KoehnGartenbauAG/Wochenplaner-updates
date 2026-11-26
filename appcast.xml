@@ -9,6 +9,25 @@
         <language>de</language>
 
         <item>
+            <title>Version 1.42.13</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.42.13</h2>
+                <ul>
+                    <li>Winterdienst › Rapporte › Fotos: sortiert nach dem Tag der Aufnahme, oben steht nur noch der Tag.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 26 Nov 2026 16:36:28 +0100</pubDate>
+            <sparkle:version>201</sparkle:version>
+            <sparkle:shortVersionString>1.42.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.42.13/KGB-Cockpit-1.42.13.zip"
+                length="71712856"
+                type="application/octet-stream"
+                sparkle:edSignature="QhzmVE74UZ/uwBAjQbEDqQG686qdGTAeVBLGAEEEuNIa+FMDb9ntprKNZLinMS5UsAK/y+iujNjGKmkHb+faCg==" />
+        </item>
+
+        <item>
             <title>Version 1.42.12</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.42.12</h2>
