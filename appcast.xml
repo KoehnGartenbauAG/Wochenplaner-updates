@@ -9,6 +9,25 @@
         <language>de</language>
 
         <item>
+            <title>Version 1.42.14</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.42.14</h2>
+                <ul>
+                    <li>Rapporte: Personen per Suche nachtragen; eigene Zeit einer Person auch vor oder nach dem Einsatz.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 26 Nov 2026 17:43:12 +0100</pubDate>
+            <sparkle:version>202</sparkle:version>
+            <sparkle:shortVersionString>1.42.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.42.14/KGB-Cockpit-1.42.14.zip"
+                length="71733809"
+                type="application/octet-stream"
+                sparkle:edSignature="/slGSsVB5HD6Q/y6uMggz9CpxzAwP59P/8lDBy2BTsucSzYrlzSGD/mqM6Zk2UIHHZHr1kNsQiVly6m6rVzLCQ==" />
+        </item>
+
+        <item>
             <title>Version 1.42.13</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.42.13</h2>
