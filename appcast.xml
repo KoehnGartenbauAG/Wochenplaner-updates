@@ -9,6 +9,30 @@
         <language>de</language>
 
         <item>
+            <title>Version 1.42.12</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.42.12</h2>
+                <p>Fasst alles seit 1.42.8 zusammen.</p>
+                <ul>
+                    <li>Winterdienst › Einstellungen: neues Wetter-Log – jede Nacht Ampel gegen Wirklichkeit (Prognose, Messung, Radar, Einsätze, Urteil, Notiz).</li>
+                    <li>Winterdienst › Rapporte: Im aufgeklappten Rapport lassen sich Personen abhaken, nachtragen und mit eigener Zeit (von–bis) erfassen, auch bei freigegebenen Rapporten.</li>
+                    <li>Winterdienst › Lage: Unter «Teams» stehen nur noch Teams, die ihre Tour mit Go gestartet haben. Rapporte: Objekt im neuen Rapport per Suche finden (mit Firma), Teams mit vollem Namen, Rapporte löschen auch nach Freigabe.</li>
+                    <li>Winterdienst › Lage: Teams, die vor Mittag losgefahren sind, bleiben sichtbar, solange ihre Tour läuft.</li>
+                    <li>Winterdienst › Rapporte › Fotos: alle Fotos aus KGB Team je Nacht und Objekt, mit Herunterladen. SStA-Handarbeit an SBB-Objekten wird beim Umwandeln der Tour automatisch gesetzt. Splitt an Bahnhöfen ist kein Fehler mehr, nur nicht verrechnet.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 26 Nov 2026 16:18:33 +0100</pubDate>
+            <sparkle:version>200</sparkle:version>
+            <sparkle:shortVersionString>1.42.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.42.12/KGB-Cockpit-1.42.12.zip"
+                length="71710893"
+                type="application/octet-stream"
+                sparkle:edSignature="mBPFi2H5kdd4Qts4SWb8ecCBqoOuNSMPWpR1Foeen30Fwvgl7hglKVVgqG3+J0XN14fowezCWraWO5IXHlr0BQ==" />
+        </item>
+
+        <item>
             <title>Version 1.42.7</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.42.7</h2>
