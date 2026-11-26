@@ -9,6 +9,25 @@
         <language>de</language>
 
         <item>
+            <title>Version 1.42.16</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.42.16</h2>
+                <ul>
+                    <li>Markierungspfähle: ohne eingeplantes Fahrzeug kommt pauschal ¼ h Grossmaschine für die Fahrt auf die Kundenrechnung (nicht in die Partner-Gutschrift). Im Block «Fahrzeug und Material» änderbar.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 26 Nov 2026 22:47:12 +0100</pubDate>
+            <sparkle:version>204</sparkle:version>
+            <sparkle:shortVersionString>1.42.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.42.16/KGB-Cockpit-1.42.16.zip"
+                length="71805714"
+                type="application/octet-stream"
+                sparkle:edSignature="0XGXkyEQBPEwOhEwjgBnpVS3sJEw9mAVGV2JE6rITS/eiieysanhrXXbyUwJ37H9V5paCZn/PEhsrFmgit8vCw==" />
+        </item>
+
+        <item>
             <title>Version 1.42.15</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.42.15</h2>
