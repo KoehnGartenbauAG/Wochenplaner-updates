@@ -9,6 +9,25 @@
         <language>de</language>
 
         <item>
+            <title>Version 1.42.15</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.42.15</h2>
+                <ul>
+                    <li>Rapport-Kontrolle: eigene Zeit bleibt wie getippt (11:00 statt 10:59). Anfahrt zeigt Stunden statt «1 ×». Neuer Block «Fahrzeug und Material»: Anfahrt-Stunden, Salz, Splitt und Bemerkung direkt im Rapport ändern.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 26 Nov 2026 21:50:33 +0100</pubDate>
+            <sparkle:version>203</sparkle:version>
+            <sparkle:shortVersionString>1.42.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.42.15/KGB-Cockpit-1.42.15.zip"
+                length="71793659"
+                type="application/octet-stream"
+                sparkle:edSignature="4NKlJ4vpd0Ikj62FytISzN0ZTNkpf8/F6MsSVHuZ7bSffflyL3PQ4r6+tvhUKaSfU4FMti35O0wk1ZSJ6oWOBg==" />
+        </item>
+
+        <item>
             <title>Version 1.42.14</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.42.14</h2>
