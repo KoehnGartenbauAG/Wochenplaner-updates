@@ -9,6 +9,25 @@
         <language>de</language>
 
         <item>
+            <title>Version 1.42.17</title>
+            <description><![CDATA[
+                <h2>KGB Cockpit 1.42.17</h2>
+                <ul>
+                    <li>Ella: eigene Karte mit Kugel und Gespräch. Winterdienst-Rapporte per Stimme aufnehmen, Ella fragt Fehlendes nach und speichert nur als Entwurf (Freigeben bleibt Handarbeit). Sprechtaste: Wahltaste + Leertaste halten und reden. Rapportliste passt sich an, wenn die Seitenleiste offen ist.</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 27 Nov 2026 18:00:06 +0100</pubDate>
+            <sparkle:version>205</sparkle:version>
+            <sparkle:shortVersionString>1.42.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/KoehnGartenbauAG/Wochenplaner-updates/releases/download/v1.42.17/KGB-Cockpit-1.42.17.zip"
+                length="72861853"
+                type="application/octet-stream"
+                sparkle:edSignature="HNkAndYeAa7a1nykd6NkuVhTllEYAXxijRsofIJ3zwT09CC8cB3GuA/+/rMW/MZPXhicvbAVwGAQ5qvwoNxeAw==" />
+        </item>
+
+        <item>
             <title>Version 1.42.16</title>
             <description><![CDATA[
                 <h2>KGB Cockpit 1.42.16</h2>
